@@ -1,0 +1,1266 @@
+
+Combined ZIL Compiler Ver 2.0 (MIM)
+-----------------------------------
+Input file: SS:<M4>M4.ZIL.37
+Input file: SS:<M4>MISC.ZIL.138
+Compiling routine: ENABLED?
+Compiling routine: RUNNING?
+Compiling routine: PICK-ONE
+Compiling routine: DPRINT
+Compiling routine: GO
+Compiling routine: MAIN-LOOP
+Compiling routine: MAIN-LOOP-1
+Compiling routine: FIXED-FONT-ON
+Compiling routine: FIXED-FONT-OFF
+Compiling routine: FAKE-ORPHAN
+Compiling routine: PERFORM
+Compiling routine: D-APPLY
+Compiling routine: QUEUE
+Compiling routine: INT
+Compiling routine: CLOCKER
+Input file: SS:<M4>PARSER.ZIL.279
+Compiling routine: PARSER
+Compiling routine: CHANGE-LEXV
+Compiling routine: STUFF
+Compiling routine: INBUF-STUFF
+Compiling routine: INBUF-ADD
+Compiling routine: WT?
+Compiling routine: CLAUSE
+Compiling routine: NUMBER?
+Compiling routine: CENTS-CHECK
+Compiling routine: ORPHAN-MERGE
+Compiling routine: ACLAUSE-WIN
+Compiling routine: NCLAUSE-WIN
+Compiling routine: WORD-PRINT
+Compiling routine: UNKNOWN-WORD
+Compiling routine: CANT-USE
+Compiling routine: SYNTAX-CHECK
+Compiling routine: VERB-PRINT
+Compiling routine: CANT-ORPHAN
+Compiling routine: ORPHAN
+Compiling routine: CLAUSE-PRINT
+Compiling routine: BUFFER-PRINT
+Compiling routine: NAME?
+Compiling routine: CAPITALIZE
+Compiling routine: PREP-PRINT
+Compiling routine: CLAUSE-COPY
+Compiling routine: CLAUSE-ADD
+Compiling routine: PREP-FIND
+Compiling routine: SYNTAX-FOUND
+Compiling routine: GWIM
+Compiling routine: SNARF-OBJECTS
+Compiling routine: BUT-MERGE
+Compiling routine: SNARFEM
+Compiling routine: BUZZER-WORD?
+Compiling routine: CLEAN-TALK?
+Compiling routine: DIRTY-WORD?
+Compiling routine: LIGHT-WEIGHT?
+Compiling routine: ADJ-CHECK
+Compiling routine: GET-OBJECT
+Compiling routine: MOBY-FIND
+Compiling routine: WHICH-PRINT
+Compiling routine: GLOBAL-CHECK
+Compiling routine: DO-SL
+Compiling routine: SEARCH-LIST
+Compiling routine: OBJ-FOUND
+Compiling routine: TAKE-CHECK
+Compiling routine: ITAKE-CHECK
+Compiling routine: MANY-CHECK
+Compiling routine: ZMEMQ
+Compiling routine: ZMEMQB
+Compiling routine: LIT?
+Compiling routine: PRSO-PRINT
+Compiling routine: PRSI-PRINT
+Compiling routine: THIS-IT?
+Input file: SS:<M4>SYNTAX.ZIL.280
+Input file: SS:<M4>RECORD.ZIL.4
+Compiling routine: V-$COMMAND
+Compiling routine: V-$RANDOM
+Compiling routine: V-$RECORD
+Compiling routine: V-$UNRECORD
+Input file: SS:<M4>VERBS.ZIL.1379
+Compiling routine: V-VERBOSE
+Compiling routine: V-SAVE
+Compiling routine: V-RESTORE
+Compiling routine: V-SCORE
+Compiling routine: V-SCRIPT
+Compiling routine: V-UNSCRIPT
+Compiling routine: CORP-NOTICE
+Compiling routine: V-BRIEF
+Compiling routine: V-SUPER-BRIEF
+Compiling routine: V-DIAGNOSE
+Compiling routine: V-INVENTORY
+Compiling routine: PRINT-AMOUNT
+Compiling routine: V-QUIT
+Compiling routine: V-RESTART
+Compiling routine: YES?
+Compiling routine: FINISH
+Compiling routine: TELL-FINISH
+Compiling routine: V-VERSION
+Compiling routine: V-$VERIFY
+Compiling routine: V-ADVANCE
+Compiling routine: V-ALARM
+Compiling routine: V-ANSWER
+Compiling routine: V-APPLAUD
+Compiling routine: V-ARREST
+Compiling routine: V-ASK-ABOUT
+Compiling routine: V-ASK-FOR
+Compiling routine: V-BALANCE
+Compiling routine: V-BET
+Compiling routine: V-BITE
+Compiling routine: PRE-BOARD
+Compiling routine: V-BOARD
+Compiling routine: V-BRIBE
+Compiling routine: PRE-BUY
+Compiling routine: V-BUY
+Compiling routine: V-CALL
+Compiling routine: V-CATCH-WITH
+Compiling routine: V-CHASTISE
+Compiling routine: V-CHEAT
+Compiling routine: V-CLAP
+Compiling routine: V-CLEAN
+Compiling routine: V-CLIMB-DOWN
+Compiling routine: V-CLIMB-FOO
+Compiling routine: V-CLIMB-ON
+Compiling routine: V-CLIMB-OVER
+Compiling routine: V-CLIMB-UP
+Compiling routine: V-CLOSE
+Compiling routine: PRE-COMPARE
+Compiling routine: V-COMPARE
+Compiling routine: V-COUNT
+Compiling routine: V-CRAWL-UNDER
+Compiling routine: V-CUT
+Compiling routine: V-DIG
+Compiling routine: V-DISEMBARK
+Compiling routine: V-DRINK
+Compiling routine: V-DRINK-FROM
+Compiling routine: V-DRIVE
+Compiling routine: PRE-DROP
+Compiling routine: V-DROP
+Compiling routine: V-EAT
+Compiling routine: V-EJECT
+Compiling routine: V-EMPTY
+Compiling routine: V-ENTER
+Compiling routine: V-EXAMINE
+Compiling routine: V-EXAMINE-THROUGH
+Compiling routine: V-EXIT
+Compiling routine: V-FEED
+Compiling routine: V-FILL
+Compiling routine: V-FIND
+Compiling routine: WHERE-FIND
+Compiling routine: V-FIRST-LOOK
+Compiling routine: V-FOLLOW
+Compiling routine: WHICH-WAY
+Compiling routine: I-FOLLOW
+Compiling routine: PRE-GIVE
+Compiling routine: V-GET-DOWN
+Compiling routine: V-GIVE
+Compiling routine: V-HANG-UP
+Compiling routine: V-HELLO
+Compiling routine: V-HELP
+Compiling routine: V-HIDE
+Compiling routine: V-HIDE-BEHIND
+Compiling routine: V-HYPNOTISE
+Compiling routine: V-INHALE
+Compiling routine: V-KICK
+Compiling routine: V-KILL
+Compiling routine: V-KNOCK
+Compiling routine: V-KISS
+Compiling routine: V-LAMP-OFF
+Compiling routine: V-LAMP-ON
+Compiling routine: V-LEAP
+Compiling routine: V-LEAP-OFF
+Compiling routine: V-LEAN
+Compiling routine: V-LEAVE
+Compiling routine: V-LIE-DOWN
+Compiling routine: V-LISTEN
+Compiling routine: PRE-LOCK
+Compiling routine: V-LOCK
+Compiling routine: V-LOOK
+Compiling routine: V-LOOK-BEHIND
+Compiling routine: V-LOOK-DOWN
+Compiling routine: V-LOOK-INSIDE
+Compiling routine: V-LOOK-ON
+Compiling routine: V-LOOK-OUTSIDE
+Compiling routine: V-LOOK-UNDER
+Compiling routine: V-LOOK-UP
+Compiling routine: V-LOWER
+Compiling routine: V-MAKE
+Compiling routine: V-MOVE
+Compiling routine: V-MUNG
+Compiling routine: V-NO
+Compiling routine: V-OPEN
+Compiling routine: V-PASS
+Compiling routine: V-PHONE
+Compiling routine: V-PHONE-WITH
+Compiling routine: V-PICK
+Compiling routine: V-PICK-UP
+Compiling routine: V-PLAY
+Compiling routine: V-POUR
+Compiling routine: V-PUNCH
+Compiling routine: V-PUSH
+Compiling routine: PRE-PUT
+Compiling routine: V-PUT
+Compiling routine: V-PUT-BEHIND
+Compiling routine: V-PUT-ON
+Compiling routine: V-PUT-OUTSIDE
+Compiling routine: V-PUT-UNDER
+Compiling routine: V-RAISE
+Compiling routine: V-REACH-IN
+Compiling routine: PRE-READ
+Compiling routine: V-READ
+Compiling routine: V-RECORD
+Compiling routine: V-RELEASE
+Compiling routine: V-REWIND
+Compiling routine: V-REMOVE
+Compiling routine: V-REPLY
+Compiling routine: V-RUB
+Compiling routine: V-SAVE-SOMETHING
+Compiling routine: V-SEARCH
+Compiling routine: V-SEARCH-OBJECT-FOR
+Compiling routine: TELL-OPEN-FIRST
+Compiling routine: V-SET
+Compiling routine: V-SGIVE
+Compiling routine: V-SHAKE
+Compiling routine: V-SHAKE-WITH
+Compiling routine: V-SHOW
+Compiling routine: V-SIT
+Compiling routine: V-SKIP
+Compiling routine: V-SLEEP
+Compiling routine: V-SMELL
+Compiling routine: V-SMILE
+Compiling routine: V-SPIN
+Compiling routine: V-SPUT-ON
+Compiling routine: V-SWHIP
+Compiling routine: V-SSHOW
+Compiling routine: V-STAND
+Compiling routine: V-STAND-ON
+Compiling routine: V-STELL
+Compiling routine: V-STOP
+Compiling routine: PRE-TAKE
+Compiling routine: HAVE-IT
+Compiling routine: V-TAKE
+Compiling routine: V-TAKE-OFF
+Compiling routine: V-TAKE-WITH
+Compiling routine: V-TALK-INTO
+Compiling routine: V-TAME
+Compiling routine: V-TASTE
+Compiling routine: V-TELL
+Compiling routine: V-TELL-ABOUT
+Compiling routine: V-TELL-TIME
+Compiling routine: V-TELL-NAME
+Compiling routine: V-THANK
+Compiling routine: V-THROUGH
+Compiling routine: PRE-THROW
+Compiling routine: V-THROW
+Compiling routine: V-THROW-OFF
+Compiling routine: V-TIE
+Compiling routine: V-TUNE
+Compiling routine: V-UNLOCK
+Compiling routine: CANT-LOCK
+Compiling routine: V-UNTIE
+Compiling routine: V-VAULT
+Compiling routine: V-WALK
+Compiling routine: V-WALK-AROUND
+Compiling routine: V-WALK-OVER
+Compiling routine: V-WALK-TO
+Compiling routine: V-WAIT
+Compiling routine: V-WAIT-FOR
+Compiling routine: V-WAIT-IN
+Compiling routine: V-WAVE
+Compiling routine: V-WAVE-AT
+Compiling routine: PRE-WEAR
+Compiling routine: V-WEAR
+Compiling routine: V-WHAT
+Compiling routine: V-WHERE
+Compiling routine: V-WHIP
+Compiling routine: V-WHO
+Compiling routine: V-WHY
+Compiling routine: V-YELL
+Compiling routine: V-YOU-ARE-OBJECT
+Compiling routine: I-REPLY
+Compiling routine: V-YES
+Compiling routine: ITAKE
+Compiling routine: IDROP
+Compiling routine: REMOVE-FIRST
+Compiling routine: CCOUNT
+Compiling routine: WEIGHT
+Compiling routine: DESCRIBE-ROOM
+Compiling routine: PRINT-CONTENTS
+Compiling routine: DESCRIBE-OBJECTS
+Compiling routine: SEE-ANYTHING-IN?
+Compiling routine: DESCRIBE-VEHICLE
+Compiling routine: GOTO
+Compiling routine: JIGS-UP
+Compiling routine: TELL-DIED
+Compiling routine: I-DEMISE
+Compiling routine: ACCESSIBLE?
+Compiling routine: VISIBLE?
+Compiling routine: META-LOC
+Compiling routine: OTHER-SIDE
+Compiling routine: HELD?
+Compiling routine: SEE-INSIDE?
+Compiling routine: GLOBAL-IN?
+Compiling routine: FIND-IN
+Compiling routine: LOC-CLOSED
+Compiling routine: DO-WALK
+Compiling routine: STOP
+Compiling routine: ROB
+Compiling routine: MOVE-TAKEBIT
+Compiling routine: HACK-HACK
+Compiling routine: ARTICLE
+Input file: SS:<M4>GLOBALS.ZIL.733
+Compiling routine: BACK-F
+Compiling routine: INTNUM-F
+Compiling routine: GLOBAL-MONEY-F
+Compiling routine: DOLLAR-F
+Compiling routine: NOT-HERE-OBJECT-F
+Compiling routine: FIND-NOT-HERE
+Compiling routine: NOT-HERE-PRINT
+Compiling routine: LIGHT-F
+Compiling routine: DARKNESS-F
+Compiling routine: GROUND-F
+Compiling routine: WALLS-F
+Compiling routine: TELL-WIMPER
+Compiling routine: CEILING-F
+Compiling routine: CORNER-F
+Compiling routine: EGRESS-F
+Compiling routine: LADDER-F
+Compiling routine: CLIMB?
+Compiling routine: CANT-CLIMB?
+Compiling routine: UP-LADDER
+Compiling routine: DOWN-LADDER
+Compiling routine: TELL-CLIMBING
+Compiling routine: AIR-F
+Compiling routine: HANDS-F
+Compiling routine: MONKEY-F
+Compiling routine: HEAD-F
+Compiling routine: PROTAGONIST-F
+Compiling routine: PROTAGONIST-HACK-F
+Compiling routine: YOU-F
+Compiling routine: ME-F
+Compiling routine: GLOBAL-ROOM-F
+Compiling routine: VOICES-F
+Compiling routine: HIGH-VOICE-F
+Compiling routine: GEN-VOICE-F
+Compiling routine: ROAR-F
+Compiling routine: TALKING-TO?
+Compiling routine: ASKING?
+Compiling routine: TOUCHING?
+Compiling routine: TOUCHING-VERB?
+Compiling routine: DISTURB?
+Compiling routine: HURT?
+Compiling routine: TELL-WITHIN-REACH
+Compiling routine: NOT-INTERESTED
+Compiling routine: TELL-CLOSELY-SPACED
+Compiling routine: CANT-REACH
+Compiling routine: CANT-SEE
+Compiling routine: YOU-CANT-USE
+Compiling routine: CANT-OPEN
+Compiling routine: CARRIAGE-RETURNS
+Compiling routine: OUT-OF-FIRST
+Compiling routine: CRAWL-DIR
+Compiling routine: TELL-HIT-HEAD
+Compiling routine: IS-NOUN?
+Compiling routine: IS-ADJ?
+Compiling routine: SPECIFY-MONEY
+Compiling routine: TELL-SEE-MANUAL
+Compiling routine: OPEN-CLOSED
+Input file: SS:<M4>CARDS.ZIL.59
+Compiling routine: PICK-CARD
+Compiling routine: CARD-VALUE
+Compiling routine: DEAL-HAND
+Compiling routine: TELL-HAND
+Compiling routine: TELL-CARD
+Compiling routine: PLAY-HAND
+Compiling routine: ACE-CHECK
+Compiling routine: SHUFFLE-DECK
+Compiling routine: ALREADY-GONE
+Input file: SS:<M4>WAY.ZIL.2661
+Compiling routine: MIDWEST-F
+Compiling routine: TELL-FRONT
+Compiling routine: TELL-BANNER
+Compiling routine: MEN-F
+Compiling routine: I-CHAINS
+Compiling routine: APE-ENTER
+Compiling routine: BULL-ENTER
+Compiling routine: FENCE-EXIT
+Compiling routine: APE-F
+Compiling routine: I-APE
+Compiling routine: APE-DEATH
+Compiling routine: LUGGAGE
+Compiling routine: APE-ROOM-F
+Compiling routine: COMPARTMENT-F
+Compiling routine: TRAP-DOOR-F
+Compiling routine: RIBBON-F
+Compiling routine: CAGE-F
+Compiling routine: NO-POSITION
+Compiling routine: ON-CAGE-F
+Compiling routine: UP-DOWN-CAGE
+Compiling routine: BULL-ROOM-F
+Compiling routine: CLOSET-F
+Compiling routine: DRESS-F
+Compiling routine: VEIL-F
+Compiling routine: WONT-FIT-OVER
+Compiling routine: SHAWL-F
+Compiling routine: ON-TENT-F
+Compiling routine: POKE-EXIT
+Compiling routine: I-POKE
+Compiling routine: TELL-PROD-WITHDRAW
+Compiling routine: PROD-F
+Compiling routine: BURN-HOLE-F
+Compiling routine: I-MOVE-DICK
+Compiling routine: TENT-F
+Compiling routine: BULL-F
+Compiling routine: I-BULL
+Compiling routine: QUEUE-THUMB?
+Compiling routine: I-THUMB
+Compiling routine: CHAIN-F
+Compiling routine: NOOK-F
+Compiling routine: NOOK-EXIT
+Compiling routine: BLUE-DOOR-ENTER
+Compiling routine: PATH-F
+Compiling routine: STRAW-F
+Compiling routine: GLOBAL-SAWDUST-F
+Compiling routine: ROUST-ROOM-F
+Compiling routine: KEY-F
+Compiling routine: REAL-KEY-F
+Compiling routine: TAKE-WITH-POLE?
+Compiling routine: JIM-F
+Compiling routine: JIM-DESCFCN
+Compiling routine: JIM-GLOBAL-F
+Compiling routine: DUFFY-F
+Compiling routine: HEADPHONES-F
+Compiling routine: RECORD-TAPE
+Compiling routine: TAPE-PRINT
+Compiling routine: TELL-TURN-KNOB
+Compiling routine: I-RUN
+Compiling routine: TELL-COUNTER
+Compiling routine: STOP-TAPE
+Compiling routine: MUSIC-F
+Compiling routine: CLASSICAL-PLAYING?
+Compiling routine: PARLOR-F
+Compiling routine: HYP-HAND-BACK
+Compiling routine: TICKET-F
+Compiling routine: BOX-F
+Compiling routine: MAN-OR-WOMAN
+Compiling routine: HYP-F
+Compiling routine: HYP-DESC
+Compiling routine: TICKET-CHECK?
+Compiling routine: TELL-WHAT-NOW
+Compiling routine: I-HYP
+Compiling routine: DREAM
+Compiling routine: WAKE-UP
+Compiling routine: SOFA-F
+Compiling routine: TUX-F
+Compiling routine: FORTUNE-F
+Compiling routine: MID-F
+Compiling routine: FRONT-F
+Compiling routine: I-BLUE-DOOR
+Compiling routine: BLUE-DOOR-F
+Compiling routine: GEN-NOOK-DOOR-F
+Compiling routine: WIN-BLUE-DOOR
+Compiling routine: FAT-ROOM-F
+Compiling routine: AROUND-FAT
+Compiling routine: MOVE-FAT
+Compiling routine: FAT-F
+Compiling routine: FAT-HAND-F
+Compiling routine: WIN-FAT
+Compiling routine: RADIO-F
+Compiling routine: I-RADIO
+Compiling routine: WPDL-F
+Compiling routine: DIAL-F
+Compiling routine: SIGNAL
+Compiling routine: STAIRCASE-F
+Compiling routine: UP-STAIRS
+Compiling routine: BOUDOIR-F
+Compiling routine: HERM-F
+Compiling routine: HERM-DESC
+Compiling routine: ANDREW-F
+Compiling routine: ANDREW-CLOTHES-F
+Compiling routine: GEN-JENNY-F
+Compiling routine: JENNY-F
+Compiling routine: JENNY-CLOTHES-F
+Compiling routine: NOT-PEEP
+Compiling routine: SPILL-BEANS?
+Compiling routine: CASE-F
+Compiling routine: MIDEAST-F
+Compiling routine: I-DRUNK
+Compiling routine: CON-F
+Compiling routine: CON-DESC
+Compiling routine: TELL-GRIN
+Compiling routine: SMOKE-F
+Compiling routine: BLUE-ROOM-F
+ ** Note: Atomic argument to routine assumed constant - KICKED-OUT-FIRST-TIME
+
+Compiling routine: KICKED-OUT-FIRST-TIME
+Compiling routine: EIGHTY-SIX
+Compiling routine: JOKE-TIME?
+Compiling routine: I-CHASE
+Compiling routine: DEALER-F
+Compiling routine: WALK-INTO-CON
+Compiling routine: TABLE-F
+Compiling routine: GEN-BLACKJACK-F
+Compiling routine: BLACKJACK-F
+Compiling routine: POKER-F
+Compiling routine: KIESTER-F
+Compiling routine: JUNK-F
+Compiling routine: FLASK-F
+Compiling routine: RAG-F
+Compiling routine: TAKE-FLASK-RAG
+Input file: SS:<M4>BIGTOP.ZIL.1797
+Compiling routine: CIRCUS-F
+Compiling routine: UNDER-STANDS-F
+Compiling routine: EXIT-UNDER-STANDS
+Compiling routine: NOT-UNDER-STANDS
+Compiling routine: GARBAGE-F
+Compiling routine: GRANDSTAND-F
+Compiling routine: STANDS-ROOM-F
+Compiling routine: HAWKER-GESTURES
+Compiling routine: I-STANDS
+Compiling routine: JUNK-FOOD-F
+Compiling routine: HAWKER-F
+Compiling routine: CROWD-F
+Compiling routine: CROWD-GONE
+Compiling routine: PAY-HAWKER?
+Compiling routine: N-OOF
+Compiling routine: S-OOF
+Compiling routine: E-OOF
+Compiling routine: W-OOF
+Compiling routine: NO-GO
+Compiling routine: SCISSOR-F
+Compiling routine: PLOW-F
+Compiling routine: BIGTOP-F
+Compiling routine: CENTER-POLE-F
+Compiling routine: RING-OBJECT-F
+Compiling routine: BALLOON-F
+Compiling routine: BALLOON-FLIGHT
+Compiling routine: HELIUM-F
+Compiling routine: I-HELIUM
+Compiling routine: NET-F
+Compiling routine: GLOBAL-NET-F
+Compiling routine: GEN-NET
+Compiling routine: WINGS-F
+Compiling routine: RING-ENTER
+Compiling routine: STANDS-ENTER
+Compiling routine: MONKEY-DIRECTION
+Compiling routine: WALK-INTO-STANDS
+Compiling routine: RING-F
+Compiling routine: WING-EXIT
+Compiling routine: TANGLED-ROPE
+Compiling routine: TELL-APE
+Compiling routine: STOOL-F
+Compiling routine: PLATFORM-1-F
+Compiling routine: CLIMB-GUY
+Compiling routine: PLATFORM-2-F
+Compiling routine: PLATFORM-ROOM-DESC
+Compiling routine: TIGHTROPE-ROOM-F
+Compiling routine: TIGHTROPE-OBJECT-F
+Compiling routine: GUY-WIRES-F
+Compiling routine: SEE-WIRES?
+Compiling routine: PLATFORM-F
+Compiling routine: PLATFORM-EXIT-F
+Compiling routine: I-TREMBLE
+Compiling routine: LEANING
+Compiling routine: LEAN
+Compiling routine: FLYING
+Compiling routine: FALL-DOWN
+Compiling routine: ACROSS-ROPE
+Compiling routine: LEFT-HANGING-F
+Compiling routine: DOWN-LEFT
+Compiling routine: PLATFORM-RETURN
+Compiling routine: DEN-F
+Compiling routine: GRATE-ENTER
+Compiling routine: I-LION
+Compiling routine: LION-CAGE-F
+Compiling routine: MOVE-LIONS
+Compiling routine: STAND-F
+Compiling routine: WHIP-HOLD
+Compiling routine: LION-NOT-HERE?
+Compiling routine: NIMROD-F
+Compiling routine: FEED-LION
+Compiling routine: TALK-TO-LION
+Compiling routine: ELSIE-F
+Compiling routine: BLIND-SIDE
+Compiling routine: LION-NAME-F
+Compiling routine: MEAT-F
+Compiling routine: BUCKET-F
+Compiling routine: EMPTY-BUCKET
+Compiling routine: NOT-HOLDING-WATER?
+Compiling routine: WATER-F
+Compiling routine: WHIP-F
+Compiling routine: LION-DOOR-F
+Input file: SS:<M4>OUTSIDE.ZIL.3339
+Compiling routine: CON-AREA-F
+Compiling routine: MONKEY-ACTS?
+Compiling routine: BANNER-F
+Compiling routine: LONG-F
+Compiling routine: SHORT-F
+Compiling routine: LINES-F
+Compiling routine: GET-OUT-OF-LINE?
+Compiling routine: GEN-LINE-F
+Compiling routine: I-BAD-LUCK
+Compiling routine: ENTER-LINE
+Compiling routine: GRANOLA-F
+Compiling routine: GEN-BAR
+Compiling routine: BANANA-F
+Compiling routine: GEN-FOOD
+Compiling routine: JERRY-F
+Compiling routine: TEAM-F
+Compiling routine: FIGHT
+Compiling routine: PLAYER-NUM-CHECK
+Compiling routine: CON-STAND-F
+Compiling routine: CONCESSIONAIRE-F
+Compiling routine: FOUNTAIN-F
+Compiling routine: BUTTON-F
+Compiling routine: GLOBAL-WATER-F
+Compiling routine: BACK-YARD-F
+Compiling routine: I-CLOWN-EXIT
+Compiling routine: CHUTE-DESC
+Compiling routine: CHUTE-F
+Compiling routine: IN-CHUTE
+Compiling routine: TELL-WITHDRAW-STUMP
+Compiling routine: GRATE-F
+Compiling routine: OPEN-GRATE
+Compiling routine: BESIDE-BIGTOP-F
+Compiling routine: NEAR-WAGON-F
+Compiling routine: NOTICE-LADDER
+Compiling routine: EGRESS-EXIT
+Compiling routine: I-ARGUMENT
+Compiling routine: TELL-BULL-HOLE
+Compiling routine: ON-WAGON-F
+Compiling routine: IN-PANEL
+Compiling routine: WAGON-F
+Compiling routine: TELL-LADDER
+Compiling routine: DOWN-WAGON
+Compiling routine: CRANK-F
+Compiling routine: PANEL-F
+Compiling routine: OFFICE-F
+Compiling routine: SHEET-F
+Compiling routine: PHONE-F
+Compiling routine: POLICE-F
+Compiling routine: FENCE-F
+Compiling routine: EDDIE-F
+Compiling routine: DONT-HANDLE?
+Compiling routine: MEMOS-F
+Compiling routine: I-OFFICE
+Compiling routine: MUNRAB-ENTERS-OFFICE
+Compiling routine: BARGE-OFFICE
+Compiling routine: OFFICE-DOOR-F
+Compiling routine: CLIMB-PANEL
+Compiling routine: UP-OFFICE
+Compiling routine: OFFICE-OBJECT-F
+Compiling routine: DESK-F
+Compiling routine: CHAIR-F
+Compiling routine: DESK-ON-WAGON-F
+Compiling routine: STARTLE-MUNRAB
+Compiling routine: DEGREE-F
+Compiling routine: BOOKS-F
+Compiling routine: BURNED-CAGE-F
+Compiling routine: GUARD-F
+Compiling routine: SUNGLASSES-F
+Compiling routine: TURNSTILE-F
+Compiling routine: PSEUDO-TURNSTILE-DESC
+Compiling routine: SLOT-F
+Compiling routine: I-TURNSTILE
+Compiling routine: TURNSTILE-EXIT
+Compiling routine: TELL-PASS-TURNSTILE
+Compiling routine: PROP-ROOM-F
+Compiling routine: PLEAT-EXIT
+Compiling routine: TELL-PASS-CANVAS
+Compiling routine: EXIT-PROP-ROOM
+Compiling routine: TRAP-F
+Compiling routine: TRAP-SET?
+Compiling routine: BACKFLIP
+Compiling routine: RASH-ACT
+Compiling routine: I-CURSE
+Compiling routine: CHEESE-F
+Compiling routine: MOUSE-DESC
+Compiling routine: MOUSE-F
+Compiling routine: FEED-MOUSE
+Compiling routine: GEN-MOUSE-F
+Compiling routine: SCAMPER
+Compiling routine: MASK-F
+Compiling routine: SUIT-F
+Compiling routine: CAR-F
+Compiling routine: SWITCH-F
+Compiling routine: I-DID
+Compiling routine: TAFT-DESC
+Compiling routine: TAFT-F
+Compiling routine: HIDE-BEHIND-TAFT
+Compiling routine: I-MEET
+Compiling routine: END-MEETING
+Compiling routine: MUNRAB-F
+Compiling routine: MUNRAB-DESC
+Compiling routine: TELL-GROUP
+Compiling routine: GANG-F
+Compiling routine: DICK-F
+Compiling routine: GET-NOTE
+Compiling routine: DICK-DESC
+Compiling routine: COAT-F
+Compiling routine: TRADE-CARD-F
+Compiling routine: IN-PACKAGE
+Compiling routine: NOTE-F
+Compiling routine: WEST-CAMP-F
+Compiling routine: CANT-WALK?
+Compiling routine: DONT-WALK
+Compiling routine: CANVAS-F
+Compiling routine: GEN-TENT
+Compiling routine: TENT-BOUND
+Compiling routine: EAST-CAMP-F
+Compiling routine: TAMER-F
+Compiling routine: TAMER-ROOM-F
+Compiling routine: STEP-INTO-TRAILER
+Compiling routine: MOOSE-F
+Compiling routine: CRAWL-SPACE-F
+Compiling routine: WINDOW-F
+Compiling routine: CURTAINS-F
+Compiling routine: TAMER-TRAILER-F
+Compiling routine: TAMER-SIGN-F
+Compiling routine: TAMER-DOOR-F
+Compiling routine: I-END-GAME
+Compiling routine: I-TAMER
+Compiling routine: TELL-BOOST-GIRL
+Compiling routine: GIRL-F
+Compiling routine: I-GIRL
+Compiling routine: WHIMPER-F
+Compiling routine: BAGGAGE-COMPARTMENT-F
+Compiling routine: CAMP-DESC
+Compiling routine: THUMB-F
+Compiling routine: THUMB-DESCFCN
+Compiling routine: THUMB-DRINKS
+Compiling routine: UNIFORM-F
+Compiling routine: KIND-OF-PERFORMER
+Compiling routine: FLOWER-F
+Compiling routine: I-BOOST
+Compiling routine: BOOST-EXIT
+Compiling routine: JOEY-DESC
+Compiling routine: JOEY-F
+Compiling routine: HATE-TO-SEE
+Compiling routine: I-JOEY
+Compiling routine: ELBOW-GREASE
+Compiling routine: JOEY-SCARED?
+Compiling routine: TELL-SCREWS
+Compiling routine: CHERRY-PIE
+Compiling routine: CLOWN-ALLEY-F
+Compiling routine: PRINT-BUNKS
+Compiling routine: EXIT-CLOWN-ALLEY
+Compiling routine: CLOWN-TRAILER-F
+Compiling routine: I-CLOWN-ALLEY
+Compiling routine: UNMASK
+Compiling routine: TRAY-F
+Compiling routine: ASH-F
+Compiling routine: SCRAP-F
+Compiling routine: COSTUME-F
+Compiling routine: MIRROR-F
+Compiling routine: BUNK-F
+Compiling routine: WARPED-DOOR-F
+ ** Note: OBJECT has no properties: GLOBAL-OBJECTS
+ ** Note: OBJECT has no properties: X-OBJECT
+ ** Note: OBJECT has no properties: DUMMY-OBJECT
+ ** Note: OBJECT has no properties: C-OBJECT
+Vocabulary: 963
+Prepositions: 21
+	 NOT
+	 IN
+	 TO
+	 WITH
+	 THROUGH
+	 ON
+	 OUT
+	 UNDER
+	 AROUND
+	 DOWN
+	 UP
+	 AWAY
+	 BEHIND
+	 SO
+	 OVER
+	 OFF
+	 AT
+	 FROM
+	 FOR
+	 ABOUT
+Objects: 239
+	 BACK-YARD
+	 NET
+	 HYP
+	 PROP-ROOM
+	 SCRAP
+	 COSTUME
+	 MIRROR
+	 UPPER
+	 TAMER-DOOR
+	 PSEUDO-OBJECT
+	 CRANK
+	 C-OBJECT
+	 TURNSTILE
+	 DESK-ON-WAGON
+	 TRAP-DOOR
+	 BLUE-ROOM
+	 PINK-BOX
+	 BESIDE-BIGTOP
+	 PATH
+	 JENNY-CLOTHES
+	 KIESTER
+	 TAMER-ROOM
+	 LEFT-HANGING
+	 CON
+	 FRONT
+	 VEIL
+	 RAG
+	 GUY-WIRES
+	 THUMB
+	 TAMER
+	 GRANDSTAND
+	 CASE
+	 SAWDUST
+	 TRAY
+	 BAGGAGE-COMPARTMENT
+	 BLUE-DOOR
+	 PROTAGONIST
+	 CANVAS
+	 BANANA
+	 SUIT
+	 GUARD
+	 UNDER-STANDS
+	 FAT
+	 DUMMY-OBJECT
+	 PHONE
+	 CEILING
+	 EAST-CAMP
+	 ANDREW
+	 ASH
+	 BURNED-CAGE
+	 WPDL
+	 MOUSE
+	 GARBAGE
+	 MIDEAST
+	 INTNUM
+	 ROUST-ROOM
+	 STRAW
+	 JIM-GLOBAL
+	 NOT-HERE-OBJECT
+	 GROUND
+	 WATER
+	 DOLLAR
+	 TRADE-CARD
+	 GLOBAL-NET
+	 STANDS-ROOM
+	 CONCESSIONAIRE
+	 FLOWER
+	 BACK
+	 CLOSET
+	 STAIRCASE
+	 SHEET
+	 MEN
+	 YOU
+	 CAR
+	 DEGREE
+	 TAMER-TRAILER
+	 DEN
+	 BROS
+	 CROWD
+	 OFFICE-OBJECT
+	 CLOWN-TRAILER
+	 BALLOON
+	 ROUST-DOOR
+	 GRANOLA
+	 JERRY
+	 DUFFY
+	 SLOT
+	 BIGTOP
+	 NOTE
+	 CLOWN-ALLEY
+	 GLORIA
+	 COAT
+	 TRAP
+	 DICK
+	 GLOBAL-MONEY
+	 GANG
+	 FAT-WEST
+	 LION-DOOR
+	 NEAR-WAGON
+	 CROWBAR
+	 MUNRAB
+	 PLATFORM
+	 CAMP
+	 TAMER-SIGN
+	 CON-STAND
+	 BULL
+	 FAT-HAND
+	 RING-OBJECT
+	 TUX
+	 MALCOM
+	 COMPARTMENT
+	 GLOBAL-ROOM
+	 HELIUM
+	 STOOL
+	 CORNER
+	 RING
+	 FENCE
+	 POLE
+	 MONKEY
+	 WHIMPER
+	 BANNER
+	 X-OBJECT
+	 CRAWL-SPACE
+	 TICKET
+	 NOOK
+	 EGRESS
+	 SWITCH
+	 ELSIE
+	 DEALER
+	 UNIFORM
+	 ANDREW-CLOTHES
+	 JOEY
+	 BULL-ROOM
+	 HIGH-VOICE
+	 WAGON
+	 LOWER
+	 BOUDOIR
+	 FORTUNE
+	 DRESS
+	 MID
+	 SHAWL
+	 DESK
+	 MEAT
+	 LADDER
+	 OFFICE-DOOR
+	 MOOSE
+	 JIM
+	 PROD
+	 STAND
+	 TABLE
+	 WEST-CAMP
+	 MASK
+	 PSEUDO-TURNSTILE
+	 FAT-EAST
+	 FOUNTAIN
+	 GLOBAL-SAWDUST
+	 SMOKE
+	 MIDWEST
+	 CIRCUS
+	 RIBBON
+	 GIRL
+	 WALLS
+	 CURTAINS
+	 WINGS
+	 LONG
+	 CENTER-POLE
+	 HAWKER
+	 IT
+	 GLOBAL-OBJECTS
+	 JUNK
+	 CHANDELIER
+	 EDDIE
+	 TIGHTROPE-OBJECT
+	 BLUE-BOX
+	 PLATFORM-2
+	 JUNK-FOOD
+	 APE-DOOR
+	 DARKNESS
+	 TAFT
+	 BUCKET
+	 CHAIN
+	 ON-WAGON
+	 TIGHTROPE-ROOM
+	 MENAGERIE
+	 DEAD-MOUSE
+	 OFFICE
+	 LIGHT
+	 CON-AREA
+	 PLATFORM-1
+	 MUSIC
+	 CHAIR
+	 ON-TENT
+	 TENT
+	 HEAD
+	 LOCAL-GLOBALS
+	 CHUTE
+	 RADIO
+	 BURN-HOLE
+	 FLASK
+	 PARLOR-OBJECT
+	 WARPED-DOOR
+	 ROOMS
+	 TEAM
+	 INTDIR
+	 PANEL
+	 CHEESE
+	 GRATE
+	 LION-CAGE
+	 HEADPHONES
+	 LION-NAME
+	 ROAR
+	 HOME
+	 SUNGLASSES
+	 NIMROD
+	 ON-CAGE
+	 ME
+	 MIDWAY
+	 BOOKS
+	 POKER
+	 VOICES
+	 POLICE
+	 BUTTON
+	 CLOSET-OBJECT
+	 SOFA
+	 WINDOW
+	 DIAL
+	 SHORT
+	 WHIP
+	 PARLOR
+	 KEY
+	 APE-ROOM
+	 CAGE
+	 HANDS
+	 GLOBAL-WATER
+	 APE
+	 BLACKJACK
+	 HERM
+	 AIR
+	 JENNY
+Properties: 28
+	 P?CONTFCN
+	 P?GROUND-LOC
+	 P?GENERIC
+	 P?SDESC
+	 P?ACTION
+	 P?ADJECTIVE
+	 P?CAPACITY
+	 P?TEXT
+	 P?SIZE
+	 P?PSEUDO
+	 P?LDESC
+	 P?FDESC
+	 P?GLOBAL
+	 P?DESCFCN
+	 P?SYNONYM
+	 P?OUT
+	 P?IN
+	 P?DOWN
+	 P?UP
+	 P?NW
+	 P?WEST
+	 P?SW
+	 P?SOUTH
+	 P?SE
+	 P?EAST
+	 P?NE
+	 P?NORTH
+Globals: 214
+	 THUMB-TAPPED
+	 P-END-ON-PREP
+	 CLOWN-COUNTER
+	 WARPED-DOOR-BROKEN
+	 HAWKER-DIRECTION
+	 WASTES
+	 LION-STAND-MOVED
+	 TAIL-END
+	 SPEAK-HELIUM
+	 NOT-MOVED-C
+	 P-NCN
+	 STATION
+	 BOOST-COUNTER
+	 P-NOT-HERE
+	 APE-LOC
+	 STANDS-C
+	 IMPOSSIBLES
+	 TAPE-SHOW
+	 EXIT-DEN
+	 CLASSICAL
+	 ALREADY-CLOSED
+	 ALREADY-OPEN
+	 YOUR-HAND
+	 DEALER-HAND
+	 REFERRING
+	 TAPE-TABLE
+	 APES
+	 CARD-SUIT
+	 BITCHES
+	 PATHS
+	 FOODS
+	 P-PRSI
+	 P-PRSO
+	 P-ADJW
+	 PERIOD
+	 BASKET-CASE
+	 INSTANT
+	 TREADMILL
+	 TELL-STANDS
+	 HOW
+	 BUSY
+	 RESERVE-LEXV
+	 AGAIN-LEXV
+	 CARD-TABLE
+	 ALL-WET
+	 EMPTY
+	 CARD-VALUES
+	 P-OTBL
+	 P-ITBL
+	 OOPS-TABLE
+	 OOPS-INBUF
+	 RESERVE-INBUF
+	 GUARD-CALLS
+	 TIPPED-OFF
+	 NO-TALENT
+	 YOU-SEE
+	 TOO-DARK
+	 CANT-GO
+	 IT-LOOKS-LIKE
+	 YOU-ARE
+	 NOT-HOLDING
+	 UNBALANCED
+	 LIONS-WAIT
+	 THAT-MUCH
+	 BAD-SENTENCE
+	 P-NAMW
+	 P-OVTBL
+	 NOT-REACH
+	 GREETINGS
+	 PLAYERS
+	 MONKEYS
+	 DANGERS
+	 ROPES
+	 LEANS
+	 FALL-GAG
+	 COACH
+	 TOO-DIRTY
+	 P-MERGE
+	 P-BUTS
+	 P-OCLAUSE
+	 NOUN-MISSING
+	 YUKS
+	 BEAT-IT
+	 BAD-AIM
+	 HO-HUM
+	 LINE-MERGE
+	 FREAKS
+	 P-VTBL
+	 YAWNS
+	 LOOK-AROUND
+	 REACHES
+	 SPECIFIC
+	 HIGH-ABOVE
+	 P-INBUF
+	 P-LEXV
+	 P-CCTBL
+	 C-TABLE
+	 CARD-SPOT
+	 GUARD-KNEW
+	 THUMB-THRU
+	 TLOC
+	 RESERVE-PTR
+	 PRSI
+	 DICK-DRUNK
+	 YOUR-COUNT
+	 WON-ON-TENT
+	 CLOWN-EXIT-COUNTER
+	 P-IT-OBJECT
+	 AWAITING-REPLY
+	 APE-C
+	 END-GAME-C
+	 BLUE-ROOM-ENTER-NUMBER
+	 MEET-COUNTER
+	 AGAIN-DIR
+	 P-ADJN
+	 GIRL-CRIED
+	 SEEN-SHEET
+	 WINNER
+	 P-OFLAG
+	 P-NUMBER
+	 ELSIE-COUNTER
+	 PLAYER-NUM
+	 P-GETFLAGS
+	 P-TABLE
+	 JOEY-JOKE
+	 QUOTE-FLAG
+	 P-WON
+	 SCARE-NUMBER
+	 HYP-BOX
+	 SIT-IN-STANDS
+	 END-GAME
+	 DIED
+	 HIDING
+	 POCKET-CHANGE
+	 DREAMING
+	 P-ONEOBJ
+	 CURSE-C
+	 P-AND
+	 GUARD-C
+	 CARD-COUNT
+	 GANG-HERE
+	 LEAN-NORTH?
+	 P-EXCHANGE
+	 WIPE-C
+	 P-PRSA-WORD
+	 PRSA
+	 P-AADJ
+	 DRUNK-COUNTER
+	 P-XADJ
+	 P-SYNTAX
+	 EGRESS-C
+	 GUARD-FELT-CASE
+	 WON-STANDS
+	 P-GWIMBIT
+	 P-MERGED
+	 FORCED-BET
+	 TAMER-C
+	 PRSO
+	 DICK-UNRESPONSIVE
+	 IN-FRONT-FLAG
+	 CHASE-C
+	 RADIO-POINTS
+	 CURSED-ONCE?
+	 DEALER-COUNT
+	 ORDERED-GRANOLA
+	 C-INTS
+	 MONEY-BEFORE-DREAM
+	 DREAM-C
+	 P-LEN
+	 P-ADJ
+	 TREMBLE-C
+	 P-MOBY-FLAG
+	 P-XADJN
+	 FOLLOW-FLAG
+	 KNOB-SET
+	 LOST-MONEY-LOC
+	 LIT
+	 P-DOLLAR-FLAG
+	 MOUSE-PISSED
+	 WON-JOEY
+	 OFFICE-C
+	 ON-ROPE
+	 P-DIRECTION
+	 VERBOSITY
+	 UNMASKED?
+	 DEALER-JOKE
+	 ON-TAPE
+	 P-CONT
+	 LAST-PSEUDO-LOC
+	 PLAYER
+	 DID-C
+	 LINE-COUNTER
+	 P-ANAM
+	 HELPED-THUMB
+	 P-WALK-DIR
+	 P-MOBY-FOUND
+	 P-XNAM
+	 P-NAM
+	 CLOCK-WAIT
+	 P-MULT
+	 P-ADVERB
+	 CALLED-STATION
+	 HEADING-EAST?
+	 BOUNCE-C
+	 HANDOUT
+	 P-MATCHLEN
+	 CLOWN-ALLEY-SCENE
+	 P-SLOCBITS
+	 P-AMOUNT
+	 P-ACLAUSE
+	 JOEY-NAME-KNOWN
+	 BET-ONCE
+	 POKE-C
+	 P-PHR

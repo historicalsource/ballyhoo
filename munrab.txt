@@ -1,0 +1,36 @@
+<TELL 
+"\"So, Munrab, what is it? Why have you called me here?\"| 
+|
+\"Listen, Detective, I've had a terrible day in your lousy little town, so
+let me be brief. Receipts have been down all month, tonight's gate was
+especially small, the towners were tightfisted, they nearly leveled my
+grandstand, and on top of that somebody's kidnapped my daughter, Chelsea.
+That's where you come in. Here's the most recent picture of her -- a pretty
+good likeness in my opinion.\"|
+|
+\"" D ,MUNRAB ", why are we whispering?\"" CR>
+
+<TELL
+"\"I don't know, because it's a mystery I guess. Anyhow, it's not because
+I suspect any of my own people here on the lot.\" There's a pause. \"I've
+got a pretty loyal crew here. Sure, I work the guys a fair amount, but hey,
+no one joins the circus expecting a holiday.\"|
+|
+Lacking all passion and professionalism, the detective replies, \"I'll
+suspect who you want me to suspect. You're paying the bill.\"|
+|
+\"Here, see, the language of this ransom note clearly shows that it's not
+an inside job. Detective, I don't know what kind of crazies are running
+loose in this town, but I'm afraid harm might come to my daughter if the
+police were to show up. God knows this circus doesn't need that kind of
+publicity, anyway. So I'm relying on you and you alone.\"|
+|
+\"I'd better hold on to that note, Munrab.\"|
+|
+\"Alright, then get going.\"|
+|
+You can hear " D ,MUNRAB " and the " D ,DICK " ">
+
+<TELL 
+" the top view of " D ,MUNRAB "'s schlock of silvery blow-dried hair. He
+is busy at his desk.">

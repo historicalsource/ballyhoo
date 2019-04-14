@@ -1,0 +1,28 @@
+Assembling M4.XZAP.9 on Tuesday, October 14, 1986 10:45:43
+Release: 99
+
+    64	Inserting M4FREQ.ZAP.2	   (618 bytes)
+   682	Inserting M4DAT.ZAP.6	 (21780 bytes)
+ 22462	Inserting MISC.ZAP.6	  (2121 bytes)
+ 24583	Inserting PARSER.ZAP.6	  (8237 bytes)
+ 32820	Inserting SYNTAX.ZAP.6	     (0 bytes)
+ 32820	Inserting RECORD.ZAP.2	    (54 bytes)
+ 32874	Inserting VERBS.ZAP.6	 (15561 bytes)
+ 48435	Inserting GLOBALS.ZAP.6	  (4706 bytes)
+ 53141	Inserting CARDS.ZAP.6	  (1221 bytes)
+ 54362	Inserting BIGTOP.ZAP.6	 (13508 bytes)
+ 67870	Inserting OUTSIDE.ZAP.6	 (33383 bytes)
+101253	Inserting WAY.ZAP.6	 (24275 bytes)
+125528	Inserting M4STR.ZAP.6	  (3074 bytes)
+
+V-$PROB global undefined:  14868
+
+239 objects.
+221 globals.
+963 word vocabulary.
+
+128602 bytes (126K).
+ 22398 bytes of preload.
+ 11258 bytes of impure.
+
+Outputting symbol tables
